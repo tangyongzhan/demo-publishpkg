@@ -1,5 +1,5 @@
 {
-  "name": "yongzhan-demo-publishpkg",
+  "name": "demo-yongzhan-publishpkg",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -7,18 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "demo-publishpkg"
+    "demo-yongzhan-publishpkg"
   ],
   "author": "Yong zhan",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tangyongzhan/demo-publishpkg.git"
+    "url": "git+https://github.com/tangyongzhan/demo-yongzhan-publishpkg.git"
   },
   "bugs": {
-    "url": "https://github.com/tangyongzhan/demo-publishpkg/issues"
+    "url": "https://github.com/tangyongzhan/demo-yongzhan-publishpkg/issues"
   },
-  "homepage": "https://github.com/tangyongzhan/demo-publishpkg/#readme",
+  "homepage": "https://github.com/tangyongzhan/demo-yongzhan-publishpkg/#readme",
   "dependencies": {
     "axios": "^0.21.1"
   }
