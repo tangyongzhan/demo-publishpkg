@@ -6,5 +6,9 @@ function getPost(type){
     })
 }
 
-const res = getPost('posts')
-console.log(res)
+module.exports = {
+    printMsg: function () {
+        console.log('this message is from demo-yongzhan-publishpkg');
+    },
+    getPost:getPost
+}
