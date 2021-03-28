@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tangyongzhan/demo-publishpkg/issues"
   },
-  "homepage": "https://github.com/tangyongzhan/demo-publishpkg/#readme"
+  "homepage": "https://github.com/tangyongzhan/demo-publishpkg/#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
