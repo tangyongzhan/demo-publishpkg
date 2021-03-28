@@ -6,9 +6,4 @@ function getPost(type){
     })
 }
 
-module.exports = {
-    printMsg: function () {
-        console.log('this message is from demo-yongzhan-publishpkg');
-    },
-    getPost:getPost
-}
+export default getPost;
