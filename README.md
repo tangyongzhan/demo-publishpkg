@@ -70,4 +70,12 @@ npm login 输入用户名，密码，邮箱等
 npm publish
 ```
 
+5. 使用发布的包
+```
+npm i demo-yongzhan-publishpkg
+```
+
+学习网址
+```
 https://www.youtube.com/watch?v=Ufwbp838yZA
+```
