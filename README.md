@@ -69,3 +69,5 @@ npm login 输入用户名，密码，邮箱等
 ```
 npm publish
 ```
+
+https://www.youtube.com/watch?v=Ufwbp838yZA
