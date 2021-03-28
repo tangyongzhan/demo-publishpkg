@@ -6,6 +6,7 @@
 > 信息如下： 
 1. 包名称，版本，描述，关键字。
 2. 开元协议，关联的仓库，bug和主页链接。
+3. 发布的包dependencies 必须又一个依赖
     ```json
     {
       "name": "demo-publishpkg", 
@@ -27,7 +28,10 @@
       "bugs": {
         "url": "https://github.com/tangyongzhan/demo-publishpkg/issues"
       },
-      "homepage": "https://github.com/tangyongzhan/demo-publishpkg/#readme"
+      "homepage": "https://github.com/tangyongzhan/demo-publishpkg/#readme",
+      "dependencies": {
+        "rmc-feedback": "^2.0.0"
+      }
     }
     ```
 2. 将代码上传的github上。
